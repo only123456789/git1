@@ -1,1 +1,2 @@
  git is a good 分布式管理工具
+he is a good man 
